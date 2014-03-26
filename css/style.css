@@ -50,11 +50,10 @@ body {
   padding-bottom: 150px;
 }
 
-h1 {
+.title {
   text-align: center;
   font-size: 56px;
   font-weight: bold;
-  margin-top: 55px;
 }
 
 p {
@@ -224,7 +223,7 @@ h2.subtitle {
 .well {
   background-color: #d1d0d0;
   border: none;
-  border-radius: none;
+  border-radius: 0px;
   -webkit-box-shadow: none;
   box-shadow: none;
 
